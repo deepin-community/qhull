@@ -1,3 +1,9 @@
+qhull (2020.2-4deepin0) unstable; urgency=medium
+
+  * No source change upload against GCC 12.
+
+ -- Tianyu Chen <sweetyfish@deepin.org>  Fri, 20 Sep 2024 12:16:22 +0800
+
 qhull (2020.2-4) unstable; urgency=medium
 
   * Recommend -dev package for the header symlinks (Closes: #988869)
